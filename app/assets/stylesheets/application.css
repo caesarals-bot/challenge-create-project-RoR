@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.btn {
+    background-color: aquamarine!important;
+}
+
+a:hover {
+    background-color: yellow!important;
+}
